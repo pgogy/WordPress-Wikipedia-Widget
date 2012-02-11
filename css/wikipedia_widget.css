@@ -1,0 +1,26 @@
+ul#wikipedia_search_and_display_widget{
+
+	text-align:center;
+
+}
+
+ul#wikipedia_search_and_display_widget li p{
+
+	margin:0px;
+	padding:0px;
+
+}
+
+ul#wikipedia_search_and_display_widget li p span{
+
+	display:none;
+
+
+}
+
+ul#wikipedia_search_and_display_widget li p span:first-child{
+
+	display:block;
+
+
+}
