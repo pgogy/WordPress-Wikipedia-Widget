@@ -58,10 +58,10 @@ class wikipedia_search_and_display extends WP_Widget_RSS {
 
 	function form($instance) {		
 		
-		echo '<p><label for="' . $this->get_field_id("wiki_url") .'">Wikipedia URL :</label>';
+		echo '<p><label for="' . $this->get_field_id("wiki_url") .'">Wikipedia URL (enter the full URL e.g. http://en.wikipedia.org/) :</label>';
 		echo '<input type="text" name="' . $this->get_field_name("wiki_url") . '" '; 
 		echo 'id="' . $this->get_field_id("wiki_url") . '" value="' . $instance["wiki_url"] . '" size="35" /></p>';	
-		echo '<p><label for="' . $this->get_field_id("number_links") .'">Number of links:</label>';
+		echo '<p><label for="' . $this->get_field_id("number_links") .'">Number of links to display (maximum):</label>';
 		echo '<input type="text" name="' . $this->get_field_name("number_links") . '" '; 
 		echo 'id="' . $this->get_field_id("number_links") . '" value="' . $instance["number_links"] . '" /></p>';
 
