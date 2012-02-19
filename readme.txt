@@ -20,7 +20,7 @@ This plugin is very much in development. Please report problems to http://www.pg
 
 == Frequently Asked Questions ==
 
-No Questions have been asked yet. Please see http://www.pgogy.com/code/xerte-online/
+No Questions have been asked yet. Please see http://www.pgogy.com/code/wordpress-widget/
 
 == Screenshots ==
 
