@@ -3,7 +3,7 @@
 /*
 Plugin Name: Wikipedia API search and display Widget
 Description: Facilitates the display of Wikipedia Content
-Version: 0.1
+Version: 0.2
 Author: pgogy
 */
  

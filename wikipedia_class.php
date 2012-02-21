@@ -49,7 +49,7 @@ class wikipedia_search_and_display extends WP_Widget_RSS {
 		}
 		?>
 			<script type="text/javascript" language="javascript">
-				wikipedia_call('<?PHP echo implode(",",$words); ?>','<?PHP echo $instance["wiki_url"]; ?>','<?PHP echo $instance["number_links"]; ?>');	
+				wikipedia_call('<?PHP echo $words[0]; ?>','<?PHP echo $instance["wiki_url"]; ?>','<?PHP echo $instance["number_links"]; ?>');	
 			</script>				
 			<ul id='wikipedia_search_and_display_widget'></ul>
 		<?

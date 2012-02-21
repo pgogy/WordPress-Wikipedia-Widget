@@ -14,13 +14,20 @@ ul#wikipedia_search_and_display_widget li p{
 ul#wikipedia_search_and_display_widget li p span{
 
 	display:none;
+	text-align:left;
 
+}
 
+ul#wikipedia_search_and_display_widget li p a.wikipedia-widget-link{
+
+	cursor:hand;
+	cursor:pointer;
+	
 }
 
 ul#wikipedia_search_and_display_widget li p span:first-child{
 
 	display:block;
-
+	text-align:center;
 
 }
