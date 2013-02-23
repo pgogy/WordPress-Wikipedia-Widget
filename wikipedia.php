@@ -3,9 +3,10 @@
 /*
 Plugin Name: Wikipedia API search and display Widget
 Description: Facilitates the display of Wikipedia Content
-Version: 0.3
+Version: 0.4
 Author: pgogy
 Author URI: http://www.pgogy.com
+
 */
  
 require_once( 'wikipedia_ajax.php' ); 

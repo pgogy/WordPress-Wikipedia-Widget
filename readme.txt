@@ -2,16 +2,20 @@
 Contributors: pgogy
 Tags: elearning, learning, education, wikipedia, widget
 Requires at least: 3.1
-Tested up to: 3.4
-Stable tag: 0.3
+Tested up to: 3.5
+Stable tag: 0.4
 
-A very basic WordPress Widget plugin to display Wikipedia content related to the category of the current post. This plugin uses the wikipedia API.
+A very basic WordPress Widget plugin to display Wikipedia content related to the category of the current post. 
 
 == Description ==
 
 A very basic WordPress Widget plugin to display Wikipedia content related to the category of the current post.
 
-This plugin is very much in development. Please report problems to http://www.pgogy.com/code/wordpress-widget/
+This plugin is very much in development.
+
+Please see http://www.pgogy.com and http://www.pgogy.com/code/groups/wordpress/wikipedia-api-search-and-display-widget/ for support
+
+[vimeo https://vimeo.com/60044672]
 
 == Installation ==
 
@@ -20,7 +24,9 @@ This plugin is very much in development. Please report problems to http://www.pg
 
 == Frequently Asked Questions ==
 
-No Questions have been asked yet. Please see http://www.pgogy.com/code/wordpress-widget/
+No Questions have been asked yet. 
+
+Please see http://www.pgogy.com and http://www.pgogy.com/code/groups/wordpress/wikipedia-api-search-and-display-widget/ for support
 
 == Screenshots ==
 
